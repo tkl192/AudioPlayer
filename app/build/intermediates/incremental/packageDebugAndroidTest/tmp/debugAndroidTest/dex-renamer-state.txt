@@ -1,0 +1,10 @@
+#Mon Oct 09 15:03:19 YEKT 2023
+base.0=D\:\\AudioPlayer2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\AudioPlayer2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=D\:\\AudioPlayer2\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

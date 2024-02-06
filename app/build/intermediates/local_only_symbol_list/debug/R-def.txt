@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id artistTextView
+id musicRecyclerView
+id titleTextView
+layout activity_main
+layout item_music
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw music1
+raw music2
+raw music3
+raw music4
+raw music5
+string app_name
+style Base.Theme.AudioPlayer
+style Theme.AudioPlayer
+xml backup_rules
+xml data_extraction_rules
